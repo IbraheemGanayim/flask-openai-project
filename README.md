@@ -1,6 +1,6 @@
-# 🎯 **Flask OpenAI Assignment** 🚀
+# 🎯 **Flask OpenAI Project** 🚀
 
-Welcome to the **Flask OpenAI Assignment** repository! This project demonstrates a containerized Flask application that interacts with a PostgreSQL database, powered by **Docker**. It includes a simple question-answering API, database integration using **SQLAlchemy** and automated database migrations via **Alembic**. Unit tests are also implemented to ensure the robustness of the `/ask` API endpoint. 💪
+Welcome to the **Flask OpenAI Project** repository! This project demonstrates a containerized Flask application that interacts with a PostgreSQL database, powered by **Docker**. It includes a simple question-answering API, database integration using **SQLAlchemy** and automated database migrations via **Alembic**. Unit tests are also implemented to ensure the robustness of the `/ask` API endpoint. 💪
 
 ---
 
